@@ -4,7 +4,7 @@
 
 ### 内容安排
 
-##### [assignment1]()
+##### [assignment1](https://github.com/quinwu/DSVC/tree/master/assignment1)
 
 - 基础：Git、Python基础学习
 - 算法：k-NN
