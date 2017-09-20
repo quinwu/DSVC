@@ -12,7 +12,7 @@
 
 assignment2
 
-- 算法：Linera Regression （线性回归），线性回归+正则项（L1，L2）
+- 算法：Linear Regression （线性回归），线性回归+正则项（L1，L2）
 - 优化：梯度下降法
 - 作业：Boston House Price Predict
 
