@@ -31,7 +31,9 @@ Design and implement a new type of feature and select an algorithm, and use them
 
 ## 说明
 
-所有的文件，真正需要去完成只有两个文件。上面的optional为选做题，可以选择其他的分类算法来训练CIFAR-10数据集。
+上面的optional为选做题，可以选择其他的分类算法来训练CIFAR-10数据集。
+
+所有的文件，真正需要去完成只有两个文件。
 
 -  `knn-en.ipynb`（英文版）或者`knn-zh.ipynb`（中文版）
 - `homework/DSVC/classifiers/k_nearest_neighbor.py`
