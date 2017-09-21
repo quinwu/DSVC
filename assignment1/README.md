@@ -29,13 +29,15 @@
   - [写给大家看的机器学习书 第三篇](https://zhuanlan.zhihu.com/p/25358695)
   - [写给大家看的机器学习书 第四篇](https://zhuanlan.zhihu.com/p/25721582)
 
-#### 作业
+#### 作业 
 
-- [k-Nearest Neighbor classifier]()
+- [k-Nearest Neighbor classifier](https://github.com/quinwu/DSVC/tree/master/assignment1/homework)
 
 #### 其他
 
+可以先看资料，环境配置遇到问题可以联系**王琦**。
 
+有一切问题可以在群里提问。
 
 
 
