@@ -21,7 +21,7 @@
 
 几个会用到的概念
 
-- [[机器学习中的Bias(偏差)，Error(误差)，和Variance(方差)有什么区别和联系？](https://www.zhihu.com/question/27068705)](https://www.zhihu.com/question/27068705)
+- [机器学习中的Bias(偏差)，Error(误差)，和Variance(方差)有什么区别和联系？](https://www.zhihu.com/question/27068705)
 - [K折交叉验证评估模型性能](https://github.com/basicv8vc/Python-Machine-Learning-zh/blob/master/%E7%AC%AC%E5%85%AD%E7%AB%A0/ch6_section2.md)
 - 机器学习通俗化系列文章
   - [写给大家看的机器学习书 第一篇](https://zhuanlan.zhihu.com/p/25328686)
@@ -31,7 +31,7 @@
 
 #### 作业
 
-- k-Nearest Neighbor classifier
+- [k-Nearest Neighbor classifier]()
 
 #### 其他
 
