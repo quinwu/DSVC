@@ -28,6 +28,8 @@
   - [写给大家看的机器学习书 第二篇](https://zhuanlan.zhihu.com/p/25439997)
   - [写给大家看的机器学习书 第三篇](https://zhuanlan.zhihu.com/p/25358695)
   - [写给大家看的机器学习书 第四篇](https://zhuanlan.zhihu.com/p/25721582)
+- KNN
+  - [A Complete Guide to K-Nearest-Neighbors with Applications in Python and R](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 
 #### 作业 
 
