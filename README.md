@@ -49,4 +49,11 @@ assignment7
 - 概念：卷积, Pooling, Stride, Padding, Learning Rate, Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss。
 - 作业：CNN MNIST数字序列识别、CIFAR-10图像分类。
 
-### 维护人员
+### 主要人员
+
+| 教师   | 助教                                 |
+| ---- | ---------------------------------- |
+| 秦品乐  | [武宽](https://github.com/quinwu)    |
+|      | [沈文祥](https://github.com/swxhss)   |
+|      | [王琦](https://github.com/TaiXuan91) |
+
