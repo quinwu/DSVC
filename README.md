@@ -51,9 +51,7 @@ assignment7
 
 ### 主要人员
 
-| 教师   | 助教                                 |
-| ---- | ---------------------------------- |
-| 秦品乐  | [武宽](https://github.com/quinwu)    |
-|      | [沈文祥](https://github.com/swxhss)   |
-|      | [王琦](https://github.com/TaiXuan91) |
+| 教师   | 秦品乐                             |                                  |                                    |
+| ---- | ------------------------------- | -------------------------------- | ---------------------------------- |
+| #助教  | [武宽](https://github.com/quinwu) | [沈文祥](https://github.com/swxhss) | [王琦](https://github.com/TaiXuan91) |
 
