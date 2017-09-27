@@ -15,6 +15,8 @@
 - IDE & 文本编辑器
   - Python IDE推荐 [PyCharm](https://www.jetbrains.com/pycharm/?fromMenu)
   - 也可以选择文本编辑器来修改.py文件 推荐[visual studio code](https://code.visualstudio.com/) 。（我个人倾向使用VScode）
+- 校园网下向Github通过ssh push更新不成功的解决办法
+  - ssh使用22端口，本地网络为了网络安全会禁掉这个端口，可以选择把ssh改为443端口。[本地网络禁止 22 端口出站时怎样使用 Git+SSH](https://hyjk2000.github.io/2016/02/24/git-ssh-with-port-22-outbound-blocked.html)
 
 #### 基础学习
 
