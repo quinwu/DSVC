@@ -2,8 +2,6 @@
 
 ### 介绍
 
-`中北大学大数据与视觉计算研究所` 《机器学习》讨论课程。
-
 ### 内容安排
 
 [assignment1](https://github.com/quinwu/DSVC/tree/master/assignment1)
