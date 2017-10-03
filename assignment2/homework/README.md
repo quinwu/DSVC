@@ -2,11 +2,11 @@
 
 #### 代码
 
-代码的模版已经在`boston_housing.ipynb`文件中给出。你还会用到`visuals.py`和名为`housing.csv`的数据文件来完成这个项目。我们已经为你提供了一部分代码，但还有些功能需要你来实现才能以完成这个项目。
+代码的模版已经在`boston_housing.ipynb`文件中给出。你还会用到名为`housing.csv`的数据文件来完成这个项目。已经为你提供了一部分代码，但还有些功能需要你来实现才能以完成这个项目。
 
 #### 运行
 
-在终端或命令行窗口中，选定`boston_housing/`的目录下（包含此README文件），运行下方的命令：
+在终端或命令行窗口中，选定`homework/`的目录下（包含此README文件），运行下方的命令：
 
 `jupyter notebook boston_housing.ipynb`
 
@@ -25,3 +25,8 @@
 ###### 目标变量
 
 1. `MEDV`: 房屋的中值价格
+
+#### 作业提交
+
+- 截止时间：`2017年10月21日0点`
+- 提交方式：将完成的`boston_housing.ipynb`发送到[wukuan1995@gmail.com](mailto:wukuan1995@gmail.com)，邮件的题目为`真实姓名-assignment2`（方便快速查找）。
