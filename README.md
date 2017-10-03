@@ -6,14 +6,14 @@
 
 ### 内容安排
 
-##### [assignment1](https://github.com/quinwu/DSVC/tree/master/assignment1)
+[assignment1](https://github.com/quinwu/DSVC/tree/master/assignment1)
 
 - 时间：`2017年10月8号`至`2017年10月15号`
 - 基础：Git、Python基础学习
 - 算法：k-NN
 - 作业：CIFAR-10 图像分类
 
-assignment2 
+[assignment2](https://github.com/quinwu/DSVC/tree/master/assignment2)
 - 时间：`2017年10月16号` 至 `2017年10月22号`。
 - 算法：Linear Regression （线性回归）
 - 优化：梯度下降法

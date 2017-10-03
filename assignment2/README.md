@@ -1,5 +1,15 @@
 ## assignment2
 
+#### 准备工作
+
+这个项目需要安装**Python 2.7**和以下的Python函数库
+
+- [NumPy](http://www.numpy.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+其中，**Numpy**、**Matplotlib**是必须的安装的（一般在第一次作业中安装了Anaconda2.7后这两个包都是自动安装的），**scikit-learn**不是必须的。
+
 #### 内容
 
 - 通过学习线性回归算法来了解机器学习的一些基本的过程。
@@ -17,7 +27,7 @@
 
 #### 作业
 
-- Linear Regression 可视化**（optional）**
+- Linear Regression 可视化（optional）
 
   独立使用Numpy、Matplotlib 来完成Linear Regression的可视化任务，就像给出的我的实现效果一样。数据集可以参考我上面的可视化效果的数据集，也可以选择Boston House Price的数据集或者其他的。帮助理解Linear Regression的过程。
 
