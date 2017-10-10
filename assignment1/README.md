@@ -10,6 +10,13 @@
   - 安装教程 [Windows](http://www.jianshu.com/p/cd35110f1ed0)，[Linux](http://blog.topspeedsnail.com/archives/9607)
 - Jupyter Notebook（此前被称为 IPython notebook）是一个交互式笔记本，支持运行 40 多种编程语言。Jupyter Notebook 的本质是一个 Web 应用程序，便于创建和共享文学化程序文档，支持实时代码，数学方程，可视化和 [markdown](https://baike.baidu.com/item/markdown)。 用途包括：数据清理和转换，数值模拟，统计建模，机器学习等等。
   - [快速入门教程](https://sdk.cn/news/4523)
+- Markdown
+  - 项目文件里涉及到很多markdown(.md)格式的文件，可以选择下载[typora](https://typora.io/)来打开编辑Markdown文件。
+- IDE & 文本编辑器
+  - Python IDE推荐 [PyCharm](https://www.jetbrains.com/pycharm/?fromMenu)
+  - 也可以选择文本编辑器来修改.py文件 推荐[visual studio code](https://code.visualstudio.com/) 。（我个人倾向使用VScode）
+- 校园网下向Github通过ssh push更新不成功的解决办法
+  - ssh使用22端口，本地网络为了网络安全会禁掉这个端口，可以选择把ssh改为443端口。[本地网络禁止 22 端口出站时怎样使用 Git+SSH](https://hyjk2000.github.io/2016/02/24/git-ssh-with-port-22-outbound-blocked.html)
 
 #### 基础学习
 
@@ -29,6 +36,7 @@
   - [写给大家看的机器学习书 第三篇](https://zhuanlan.zhihu.com/p/25358695)
   - [写给大家看的机器学习书 第四篇](https://zhuanlan.zhihu.com/p/25721582)
 - KNN
+  - [Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits](http://cs231n.github.io/classification/)
   - [A Complete Guide to K-Nearest-Neighbors with Applications in Python and R](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 
 #### 作业 
