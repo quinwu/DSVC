@@ -17,7 +17,7 @@
 - 优化：梯度下降法
 - 作业：Boston House Price Predict 
 
-assignment3
+[assignment3](https://github.com/quinwu/DSVC/tree/master/assignment3)
 - 时间：`2017年10月23号`至`2017年10月29号`
 - 算法：Logistic Regression（对数几率回归），sigmoid 函数
 - 作业：MNIST 手写数字识别
