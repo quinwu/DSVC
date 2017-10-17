@@ -1,4 +1,4 @@
-## assignment3 (未完成)
+## assignment3 
 
 #### 内容
 
