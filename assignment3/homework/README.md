@@ -1,4 +1,4 @@
-## Logistic Regression classifier
+## MNIST 手写数字识别分类任务
 
 #### 代码
 
