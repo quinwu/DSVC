@@ -1,12 +1,12 @@
 ## MNIST 手写数字识别分类任务
 
-###代码
+### 代码
 
 代码的Jupyter Notebook模板在`logistic_regression.ipynb`文件中给出。
 
 需要实现的classifier在`/homework/DSVC/classifiers/logistic_regression.py`中给出。
 
-###数据
+### 数据
 
 - [MNIST手写数字数据集](http://yann.lecun.com/exdb/mnist/)
 
