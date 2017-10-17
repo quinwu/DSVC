@@ -28,5 +28,9 @@
 
 #### 作业提交
 
-- 截止时间：`2017年10月21日0点`
-- 提交方式：将完成的`boston_housing.ipynb`发送到[wukuan1995@gmail.com](mailto:wukuan1995@gmail.com)，邮件的题目为`真实姓名-assignment2`（方便快速查找）。
+- 截止时间：`2017年10月21日08点`
+- 提交方式：将完成的作业文件提交到[wukuan1995@gmail.com](mailto:wukuan1995@gmail.com)，邮件的标题为`姓名-assignment2`。
+- 格式说明：
+  - 需要提交的文件：`boston_housing.ipynb`文件以及他生成的`.html`文件。
+  - 将这些文件压缩成一个`.zip`文件， 命名与邮件标题相同。
+  - 你提交的作业版本应与Github上的最新版本一致。
