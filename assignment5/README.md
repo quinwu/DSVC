@@ -11,5 +11,6 @@
 
 ### 作业
 
-- [Two layers Neural Network CIFAR-10图像分类]()
+- [Two layers Neural Network CIFAR-10图像分类](https://github.com/quinwu/DSVC/tree/master/assignment5/homework)
+
 
