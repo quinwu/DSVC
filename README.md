@@ -17,26 +17,27 @@
 - 优化：梯度下降法
 - 作业：Boston House Price Predict 
 
-assignment3
+[assignment3](https://github.com/quinwu/DSVC/tree/master/assignment3)
 - 时间：`2017年10月23号`至`2017年10月29号`
 - 算法：Logistic Regression（对数几率回归），sigmoid 函数
 - 作业：MNIST 手写数字识别
 - Bonus：完成Softmax CIFAR-10图像分类，以及类比 Softmax与Logistic的关系。
 
 assignment4
-- 时间：`2017年10月30号` 至 `2017年11月5号`。
+
+- 时间：`2017年11月6号` 至 `2017年11月19号`。
 - SVM介绍 （参考书籍：周志华机器学习）
 - 算法：SVM Hinge Loss
 - 作业：CIFAR-10图像分类
 
-assignment5
-- 时间：`2017年11月6号`至  `2017年11月12号`。
+[assignment5](https://github.com/quinwu/DSVC/tree/master/assignment5)
+- 时间：`2017年10月30号`至  `2017年11月5号`。
 - Neural Network介绍
 - forward pass 、 backpropagation介绍
 - 作业：two-layer Neural Network CIFAR-10图像分类
 
 assignment6
-- 时间：`2017年11月13号`至  `2017年11月19号`。
+- 时间：`2017年11月20号`至  `2017年11月26号`。
 - Neural Network 模块化实现
 - batch normalization介绍
 - dropout介绍
@@ -44,7 +45,7 @@ assignment6
 - Bonus: Batch Normalization层的forward pass跟backpropagation实现
 
 assignment7
-- 时间：`2017年11月20号`至  `2017年12月2号`
+- 时间：`2017年11月27号`至  `2017年12月10号`
 - CNN 介绍
 - 概念：卷积, Pooling, Stride, Padding, Learning Rate, Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss。
 - 作业：CNN MNIST数字序列识别、CIFAR-10图像分类。

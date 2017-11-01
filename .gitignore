@@ -1,3 +1,10 @@
 .DS_Store
 .ipynb_checkpoints
 stuff
+*.pyc
+
+assignment4/*
+assignment6/*
+assignment7/*
+assignment8/*
+
