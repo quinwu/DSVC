@@ -23,9 +23,9 @@
 - 作业：MNIST 手写数字识别
 - Bonus：完成Softmax CIFAR-10图像分类，以及类比 Softmax与Logistic的关系。
 
-assignment4
+[assignment4](https://github.com/quinwu/DSVC/tree/master/assignment4)
 
-- 时间：`2017年11月6号` 至 `2017年11月19号`。
+- 时间：`2017年11月13号` 至 `2017年11月26号`。
 - SVM介绍 （参考书籍：周志华机器学习）
 - 算法：SVM Hinge Loss
 - 作业：CIFAR-10图像分类
@@ -37,7 +37,7 @@ assignment4
 - 作业：two-layer Neural Network CIFAR-10图像分类
 
 assignment6
-- 时间：`2017年11月20号`至  `2017年11月26号`。
+- 时间：`2017年11月6号`至  `2017年11月12号`。
 - Neural Network 模块化实现
 - batch normalization介绍
 - dropout介绍
