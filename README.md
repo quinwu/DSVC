@@ -4,6 +4,14 @@
 
 ### 内容安排
 
+
+
+#### NOTE
+
+余下的任务安排是以PPT的形式讲解，没有相关的讲义给出。后续会给出作业的版本。
+
+
+
 [assignment1](https://github.com/quinwu/DSVC/tree/master/assignment1)
 
 - 时间：`2017年10月8号`至`2017年10月15号`
@@ -49,6 +57,8 @@ assignment7
 - CNN 介绍
 - 概念：卷积, Pooling, Stride, Padding, Learning Rate, Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss。
 - 作业：CNN MNIST数字序列识别、CIFAR-10图像分类。
+
+
 
 ### 主要人员
 
