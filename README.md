@@ -4,48 +4,38 @@
 
 ### 内容安排
 
-
+[机器学习部分](https://github.com/quinwu/DSVC/tree/master/machinelearning)
 
 #### NOTE
 
 余下的任务安排是以PPT的形式讲解，没有相关的讲义给出。后续会给出作业的版本。
 
-
-
 [assignment1](https://github.com/quinwu/DSVC/tree/master/assignment1)
-
-- 时间：`2017年10月8号`至`2017年10月15号`
 - 基础：Git、Python基础学习
 - 算法：k-NN
 - 作业：CIFAR-10 图像分类
 
 [assignment2](https://github.com/quinwu/DSVC/tree/master/assignment2)
-- 时间：`2017年10月16号` 至 `2017年10月22号`。
 - 算法：Linear Regression （线性回归）
 - 优化：梯度下降法
 - 作业：Boston House Price Predict 
 
 [assignment3](https://github.com/quinwu/DSVC/tree/master/assignment3)
-- 时间：`2017年10月23号`至`2017年10月29号`
 - 算法：Logistic Regression（对数几率回归），sigmoid 函数
 - 作业：MNIST 手写数字识别
 - Bonus：完成Softmax CIFAR-10图像分类，以及类比 Softmax与Logistic的关系。
 
 [assignment4](https://github.com/quinwu/DSVC/tree/master/assignment4)
-
-- 时间：`2017年11月13号` 至 `2017年11月26号`。
 - SVM介绍 （参考书籍：周志华机器学习）
 - 算法：SVM Hinge Loss
 - 作业：CIFAR-10图像分类
 
 [assignment5](https://github.com/quinwu/DSVC/tree/master/assignment5)
-- 时间：`2017年10月30号`至  `2017年11月5号`。
 - Neural Network介绍
 - forward pass 、 backpropagation介绍
 - 作业：two-layer Neural Network CIFAR-10图像分类
 
 assignment6
-- 时间：`2017年11月6号`至  `2017年11月12号`。
 - Neural Network 模块化实现
 - batch normalization介绍
 - dropout介绍
@@ -53,7 +43,6 @@ assignment6
 - Bonus: Batch Normalization层的forward pass跟backpropagation实现
 
 assignment7
-- 时间：`2017年11月27号`至  `2017年12月10号`
 - CNN 介绍
 - 概念：卷积, Pooling, Stride, Padding, Learning Rate, Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss。
 - 作业：CNN MNIST数字序列识别、CIFAR-10图像分类。
