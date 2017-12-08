@@ -16,3 +16,5 @@
 - [AUC](https://github.com/quinwu/DSVC/blob/master/machinelearning/Lesson2/AUC.ipynb)
 - [AUC Iris](https://github.com/quinwu/DSVC/blob/master/machinelearning/Lesson2/AUCIris.ipynb)
 - [Saving Model](https://github.com/quinwu/DSVC/blob/master/machinelearning/Lesson2/SavingModel.ipynb)
+
+- [Saving Model](Lesson2/SavingModel.ipynb)
