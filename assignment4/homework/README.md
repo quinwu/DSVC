@@ -34,7 +34,7 @@
 
 - 提交方式：将完成的作业文件提交到[wukuan1995@gmail.com](mailto:wukuan1995@gmail.com)，邮件的标题为`姓名-SVM`。
 - 格式说明：
-  - 需要提交的文件：`svm.ipynb`文件以及它生成的`.html`文件、`liner_svm.py`代码文件。
+  - 需要提交的文件：`svm.ipynb`文件以及生成的`.html`文件和相关的资源文件、`liner_svm.py`代码文件。
   - 将这些文件压缩成一个`.zip`文件， 命名与邮件标题相同。
   - 你提交的作业版本应与Github上的最新版本一致。
 

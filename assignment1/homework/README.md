@@ -48,6 +48,6 @@ Design and implement a new type of feature and select an algorithm, and use them
 - 截止时间：`2018-7-15-16:00`
 - 提交方式：将完成的作业文件提交到[893636802@qq.com](mailto:893636802@qq.com)，邮件的标题为`姓名-assignment1`。
 - 格式说明：
-  - 需要提交的文件：`knn.ipynb`文件以及他生成的`.html`文件、`k_nearest_neighbor.py`代码文件。
+  - 需要提交的文件：`knn.ipynb`文件以及生成的`.html`文件和相关的资源文件、`k_nearest_neighbor.py`代码文件。
   - 将这些文件压缩成一个`.zip`文件， 命名与邮件标题相同。
   - 你提交的作业版本应与Github上的最新版本一致。
