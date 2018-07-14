@@ -19,7 +19,7 @@
   - 第一个可视化任务中的Decision Boundary比较简单，不建议使用其他第三方包。
   - 第二个可视化任务中的Decision Boundary属于多项式较为复杂，可以使用scipy.optimize或者scikit-learn来完成。 
 
-- [MNIST手写数字识别分类任务](https://github.com/quinwu/DSVC/tree/master/assignment3/homework)
+- [MNIST手写数字识别分类任务](homework)
 
   - Logistics Regression完成MNIST数据集上的二分类任务。
 

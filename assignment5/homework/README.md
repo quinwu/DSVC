@@ -26,7 +26,7 @@
 
 ### 作业提交
 
-- 截止时间：`2017年11月05日08点`
+- 截止时间：
 - 提交方式：将完成的作业文件提交到[wukuan1995@gmail.com](mailto:wukuan1995@gmail.com)，邮件的标题为`姓名-assignment5`。
 - 格式说明：
   - 需要提交的文件：`two_layer_net.ipynb`文件以及他生成的`.html`文件、`neural_net.py`代码文件。
