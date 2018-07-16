@@ -9,7 +9,7 @@
 
 参考
 
-- [小记SVM](http://quinwu.org/2017/09/08/ML-SVM/)
+- [小记SVM](https://quinwu.github.io/2017/09/08/ML-SVM/)
 - 周志华老师 《机器学习》
 - 李航老师 《统计学习方法》
 
