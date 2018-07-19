@@ -2,10 +2,14 @@ import numpy as np
 import random
 import math
 
+
 class LogisticRegression(object):
 
     def __init__(self):
         self.w = None
+
+    def sigmoid(self, t):
+        return 1. / (1. + np.exp(-t))
 
     def loss(self, X_batch, y_batch):
         """
@@ -26,13 +30,14 @@ class LogisticRegression(object):
         # TODO:                                                                 #
         # calculate the loss and the derivative                                 #
         #########################################################################
-        pass
+        return np.sum((y_batch * np.exp(self.sigmoid(X_batch.dot(self.w)))) +
+                      (1 - y_batch) * np.exp(1 - self.sigmoid(X_batch.dot(self.w)))) / len(y_batch)
         #########################################################################
         #                       END OF YOUR CODE                                #
         #########################################################################
 
     def train(self, X, y, learning_rate=1e-3, num_iters=100,
-            batch_size=200, verbose=True):
+              batch_size=200, verbose=True):
 
         """
         Train this linear classifier using stochastic gradient descent.
@@ -42,7 +47,7 @@ class LogisticRegression(object):
         - y: A numpy array of shape (N,) containing training labels;
         - learning_rate: (float) learning rate for optimization.
         - num_iters: (integer) number of steps to take when optimizing
-        - batch_size: (integer) number of training examples to use at each step.
+        - batch_size: (integer) numb    er of training examples to use at each step.
         - verbose: (boolean) If true, print progress during optimization.
 
         Outputs:
@@ -55,7 +60,7 @@ class LogisticRegression(object):
 
         loss_history = []
 
-        for it in xrange(num_iters):
+        for it in range(num_iters):
             X_batch = None
             y_batch = None
 
@@ -90,7 +95,7 @@ class LogisticRegression(object):
             #########################################################################
 
             if verbose and it % 100 == 0:
-                print 'iteration %d / %d: loss %f' % (it, num_iters, loss)
+                print('iteration %d / %d: loss %f' % (it, num_iters, loss))
 
         return loss_history
 
@@ -119,7 +124,7 @@ class LogisticRegression(object):
         return y_pred
 
     def one_vs_all(self, X, y, learning_rate=1e-3, num_iters=100,
-            batch_size=200, verbose = True):
+                   batch_size=200, verbose=True):
         """
         Train this linear classifier using stochastic gradient descent.
         Inputs:
