@@ -35,14 +35,13 @@
 - forward pass 、 backpropagation介绍
 - 作业：two-layer Neural Network CIFAR-10图像分类
 
-assignment6
+[assignment6](assignment6)
 - Neural Network 模块化实现
 - batch normalization介绍
 - dropout介绍
-- 作业：改进 Neural Network 代码。
-- Bonus: Batch Normalization层的forward pass跟backpropagation实现
+- 作业：改进 Neural Network 代码、Batch Normalization、Dropout 实现
 
-assignment7
+[assignment7](assignment7)
 - CNN 介绍
 - 概念：卷积, Pooling, Stride, Padding, Learning Rate, Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss。
 - 作业：CNN MNIST数字序列识别、CIFAR-10图像分类。
