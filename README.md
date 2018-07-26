@@ -52,9 +52,9 @@ Research Institute of Data Science and Vision Computing 机器学习与深度学
 | [武宽](https://github.com/quinwu) | [沈文祥](https://github.com/swxhss) |
 
 
-### Student
+### Participating students
 
-[Course completion list]()
+- [2018 Summer]()
 
 ### 参考 & 致谢
 
