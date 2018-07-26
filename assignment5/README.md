@@ -12,6 +12,6 @@
 
 ### 作业
 
-- [Two layers Neural Network CIFAR-10图像分类](homework)
+- [Two layers Neural Network CIFAR-10图像分类](classwork)
 
 
