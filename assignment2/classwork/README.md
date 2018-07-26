@@ -6,7 +6,7 @@
 
 #### 运行
 
-在终端或命令行窗口中，选定`homework/`的目录下（包含此README文件），运行下方的命令：
+在终端或命令行窗口中，选定`classwork/`的目录下（包含此README文件），运行下方的命令：
 
 `jupyter notebook boston_housing.ipynb`
 

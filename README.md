@@ -43,7 +43,7 @@ Research Institute of Data Science and Vision Computing 机器学习与深度学
 - 作业：CIFAR-10图像分类。
 
 
-### 主要人员
+### Teacher
 
 | 教师                              |                  -                  |
 | --------------------------------- | :---------------------------------: |
@@ -51,6 +51,10 @@ Research Institute of Data Science and Vision Computing 机器学习与深度学
 | **助教**                          |                **-**                |
 | [武宽](https://github.com/quinwu) | [沈文祥](https://github.com/swxhss) |
 
+
+### Student
+
+[Course completion list]()
 
 ### 参考 & 致谢
 

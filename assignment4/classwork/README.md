@@ -2,25 +2,25 @@
 
 ### 作业文件
 
-- 本次作业的python运行依赖环境在 `/homework/requirements.txt` 中给出
+- 本次作业的python运行依赖环境在 `classwork/requirements.txt` 中给出
 
-- Jupyter Notebook 模板在 `/homework/svm.ipynb` 中给出
+- Jupyter Notebook 模板在 `classwork/svm.ipynb` 中给出
 
-- 需要实现的SVM分类器在 `/homework/DSVC/classifiers/liner_svm.py` 中给出
+- 需要实现的SVM分类器在 `classwork/DSVC/classifiers/liner_svm.py` 中给出
 
-- 本次作业需要用到的数据在 `/homework/DSVC/datasets/get_datasets.sh` 中给出
+- 本次作业需要用到的数据在 `classwork/DSVC/datasets/get_datasets.sh` 中给出
 
 ### 数据
 
 - CIFAR-10 图像数据集
 
-- Linux 下可以直接运行 `/homework/DSVC/datasets/get_datasets.sh` 脚本下载并解压 CIFAR-10 数据集
+- Linux 下可以直接运行 `classwork/DSVC/datasets/get_datasets.sh` 脚本下载并解压 CIFAR-10 数据集
 
-将下载好的 CIFAR-10 数据放在 `/homework/DSVB/datasets/` 下即可
+将下载好的 CIFAR-10 数据放在 `classwork/DSVB/datasets/` 下即可
 
 ### 运行
 
-在终端或命令行窗口中，在该`/homework/`的目录下（包含此README文件），运行下方的命令：
+在终端或命令行窗口中，在该`classwork/`的目录下（包含此README文件），运行下方的命令：
 
 > jupyter notebook
 

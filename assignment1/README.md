@@ -41,7 +41,7 @@
 
 #### 作业 
 
-- [k-Nearest Neighbor classifier](homework)
+- [k-Nearest Neighbor classifier](classwork)
 
 
 

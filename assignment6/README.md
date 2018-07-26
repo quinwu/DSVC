@@ -8,7 +8,7 @@
 
 ### 作业
 
-- [Neural Network modular layer design](homework)
-- [Batch Normalization](homework)
-- [Dropout](homework)
+- [Neural Network modular layer design](classwork)
+- [Batch Normalization](classwork)
+- [Dropout](classwork)
 

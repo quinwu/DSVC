@@ -7,7 +7,7 @@
 
 如果上面的链接下载速度太慢（或者无法访问），可以再QQ群里下在数据。
 
-下载到`cifar-10-python.tar.gz`文件后，解压。将解压后的文件夹拷贝到`/homework/DSVC/datasets/`路径下即可。
+下载到`cifar-10-python.tar.gz`文件后，解压。将解压后的文件夹拷贝到`/classwork/DSVC/datasets/`路径下即可。
 
 #### k-Nearest Neighbor classifier
 
@@ -36,7 +36,7 @@ Design and implement a new type of feature and select an algorithm, and use them
 所有的文件，真正需要去完成只有两个文件。
 
 -  `knn-en.ipynb`（英文版）或者`knn-zh.ipynb`（中文版）
--  `homework/DSVC/classifiers/k_nearest_neighbor.py`
+-  `classwork/DSVC/classifiers/k_nearest_neighbor.py`
 
 这两个文件，其他的都是一些辅助验证的程序，不需要理会。
 

@@ -11,5 +11,5 @@
 
 ### 作业
 
-- [Convolutional Networks CIFAR-10 图像分类](../assignment6/homework)
+- [Convolutional Networks CIFAR-10 图像分类](../assignment6/classwork)
 

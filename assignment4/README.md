@@ -15,4 +15,4 @@
 
 ### 作业
 
-- [SVM 多分类任务](homework)
+- [SVM 多分类任务](classwork)
