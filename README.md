@@ -1,10 +1,10 @@
 # Research Institute of Data Science and Vision Computing
 
-### 介绍
+### Introduction
 
 Research Institute of Data Science and Vision Computing 机器学习与深度学习课程作业
 
-### 内容安排
+### Content
 
 [assignment1](assignment1)
 - 基础：Git、Python基础学习
@@ -56,7 +56,7 @@ Research Institute of Data Science and Vision Computing 机器学习与深度学
 
 - [2018 Summer](Course%20completion%20list)
 
-### 参考 & 致谢
+### Reference & Acknowledgements
 
 我们的课程作业内容主要参考到了以下相关课程，在此对以下相关内容的作者表示感谢。
 
