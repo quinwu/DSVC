@@ -28,7 +28,6 @@
 
 #### 作业提交
 
-- 截止时间：`2018-07-16-16:00`
 - 提交方式：将完成的作业文件提交到[wukuan@qq.com](mailto:wukuan@qq.com)，邮件的标题为`姓名-assignment2`。
 - 格式说明：
   - 需要提交的文件：`boston_housing.ipynb`文件以及生成的`.html`文件和相关的资源文件。
