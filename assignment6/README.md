@@ -3,8 +3,8 @@
 ### 内容
 
 - Neural Network modular layer design
-- Batch Normalization
-- Dropout
+- [Batch Normalization](https://arxiv.org/abs/1502.03167)
+- [Dropout](http://jmlr.org/papers/v15/srivastava14a.html)
 
 ### 作业
 
