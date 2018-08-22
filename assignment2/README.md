@@ -20,6 +20,8 @@
 - [机器学习入门：线性回归及梯度下降](http://blog.csdn.net/xiazdong/article/details/7950084) 
 
 - [小记Linear Regression](https://quinwu.github.io/2017/05/03/ML-Linear-Regression/)
+
+- [ A visual introduction to machine learning ](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 
  
 
 - 我自己用Python可视化实现的一个Linear Regression的效果[Linear Regression Python implement](https://github.com/quinwu/ml_implementation/tree/master/Linear-Regression)
