@@ -18,9 +18,7 @@
 以下的内容可以帮助你更好的完成这个作业：
 
 - [机器学习入门：线性回归及梯度下降](http://blog.csdn.net/xiazdong/article/details/7950084) 
-
 - [小记Linear Regression](https://quinwu.github.io/2017/05/03/ML-Linear-Regression/)
-
 - [ A visual introduction to machine learning ](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 
  
 
