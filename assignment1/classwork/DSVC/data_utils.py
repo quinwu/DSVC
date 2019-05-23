@@ -7,7 +7,8 @@ from scipy.misc import imread
 def load_CIFAR_batch(filename):
     """ load single batch of cifar """
     with open(filename, 'rb') as f:
-        datadict = pickle.load(f)
+        # BarackBao 2019.5.23 fix
+        datadict = pickle.load(f, encoding='iso-8859-1')
         X = datadict['data']
         Y = datadict['labels']
         X = X.reshape(10000, 3, 32, 32).transpose(0, 2, 3, 1).astype("float")
@@ -20,7 +21,7 @@ def load_CIFAR10(ROOT, num):
     xs = []
     ys = []
     for b in range(1, num):
-        f = os.path.join(ROOT, 'data_batch_%d' % (b, ))
+        f = os.path.join(ROOT, 'data_batch_%d' % (b,))
         X, Y = load_CIFAR_batch(f)
         xs.append(X)
         ys.append(Y)
@@ -71,7 +72,7 @@ def load_tiny_imagenet(path, dtype=np.float32):
     y_train = []
     for i, wnid in enumerate(wnids):
         if (i + 1) % 20 == 0:
-            print ('loading training data for synset %d / %d' % (i + 1, len(wnids)))
+            print('loading training data for synset %d / %d' % (i + 1, len(wnids)))
         # To figure out the filenames we need to open the boxes file
         boxes_file = os.path.join(path, 'train', wnid, '%s_boxes.txt' % wnid)
         with open(boxes_file, 'r') as f:
@@ -80,7 +81,7 @@ def load_tiny_imagenet(path, dtype=np.float32):
 
         X_train_block = np.zeros((num_images, 3, 64, 64), dtype=dtype)
         y_train_block = wnid_to_label[wnid] * \
-            np.ones(num_images, dtype=np.int64)
+                        np.ones(num_images, dtype=np.int64)
         for j, img_file in enumerate(filenames):
             img_file = os.path.join(path, 'train', wnid, 'images', img_file)
             img = imread(img_file)
