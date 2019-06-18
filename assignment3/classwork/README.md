@@ -31,7 +31,7 @@ The Jupyter Notebook `logistic_regressino.ipynb` will walk you through implement
 
 ### 作业提交
 
-- 提交方式：将完成的作业文件提交到[wukuan@qq.com](mailto:wukuan@qq.com)，邮件的标题为`姓名-assignment3`。
+- 提交方式：邮件的标题为`姓名-assignment3`。
 - 格式说明：
   - 需要提交的文件：`logistic_regression.ipynb`文件以及生成的`.html`文件和相关的资源文件、`logistic_regression.py`代码文件。
   - 将这些文件压缩成一个`.zip`文件， 命名与邮件标题相同。
