@@ -21,7 +21,7 @@
 
 - [MNIST手写数字识别分类任务](classwork)
 
-必须手动实现Logistics Regression，不得使用任何第三方库
+*必须手动实现Logistics Regression，不得使用任何第三方库*
 
   - Logistics Regression完成MNIST数据集上的二分类任务。
 
