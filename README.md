@@ -17,27 +17,37 @@ Research Institute of Data Science and Vision Computing 机器学习与深度学
 - 作业：Boston House Price Predict 
 
 [assignment3](assignment3)
+
 - 算法：Logistic Regression（对数几率回归），sigmoid 函数
 - 作业：MNIST 手写数字识别
 - Bonus：完成Softmax CIFAR-10图像分类，以及类比 Softmax与Logistic的关系。
 
 [assignment4](assignment4)
+
+- 算法：Decision Tree
+- 作业：Decision Tree
+
+[assignment5](assignment5)
+
 - SVM介绍 （参考书籍：周志华机器学习）
 - 算法：SVM Hinge Loss
 - 作业：CIFAR-10图像分类
 
-[assignment5](assignment5)
+[assignment6](assignment6)
+
 - Neural Network介绍
 - forward pass 、 backpropagation介绍
 - 作业：two-layer Neural Network CIFAR-10图像分类
 
-[assignment6](assignment6)
+[assignment7](assignment7)
+
 - Neural Network 模块化实现
 - batch normalization介绍
 - dropout介绍
 - 作业：改进 Neural Network 代码、Batch Normalization、Dropout 实现
 
-[assignment7](assignment7)
+[assignment8](assignment8)
+
 - CNN 介绍
 - 概念：卷积, Pooling, Stride, Padding, Learning Rate, Momentum, Softmax, ReLU, BP, SGD, Cross-Entropy Loss。
 - 作业：CIFAR-10图像分类。

@@ -1,51 +1,33 @@
-In this assignment you will practice writing backpropagation code, and training
-Neural Networks and Convolutional Neural Networks. The goals of this assignment
-are as follows:
+## Two layers Neural Network CIFAR-10图像分类
 
-- understand **Neural Networks** and how they are arranged in layered
-  architectures
-- understand and be able to implement (vectorized) **backpropagation**
-- implement various **update rules** used to optimize Neural Networks
-- implement **batch normalization** for training deep networks
-- implement **dropout** to regularize networks
-- effectively **cross-validate** and find the best hyperparameters for Neural
-  Network architecture
-- understand the architecture of **Convolutional Neural Networks** and train
-  gain experience with training these models on data
+### 作业文件
 
-### Neural Network modular
+程序的Jupyter Notebook模板在`classwork/two_layer_net.ipynb`里给出。
 
-The IPython notebook `FullyConnectedNets.ipynb` will introduce you to our modular layer design, and then use those layers to implement fully-connected networks of arbitrary depth. To optimize these models you will implement several popular update rules.
+需要实现的classifier在`classwork/DSVC/classifiers/nerual_net.py`里给出。
 
-- `FullyConnectedNets.ipynb`
-  - `DSVC/layers.py`
-  - `DSVC/layer_utils.py`
-  - `DSVC/classfifiers/fc_net.py`
-  - `DSVC/solver.py`
-  - `DSVC/optim.py`
+### 数据
 
-### Batch Normalization
+- CIFAR-10图像数据集（跟k-NN作业中的数据集相同）
 
-In the IPython notebook `BatchNormalization.ipynb` you will implement batch normalization, and use it to train deep fully-connected networks.
+讲k-NN作业中的CIFAR-10数据集数据文件放在路径`classwork/DSVC/datasets/`下即可。
 
-- `BatchNormalization.ipynb`
-  - `DSVC/layers.py`
-  - `DSVC/classifiers/fc_net.py`
+### 运行
 
-### Dropout
+在终端或命令行窗口中，选定`classwork/`的目录下（包含此README文件），运行下方的命令：
 
-The IPython notebook `Dropout.ipynb` will help you implement Dropout and explore its effects on model generalization.
+`jupyter notebook`
 
-- `Dropout.ipynb`
-  - `DSVC/layers.py`
-  - `DSVC/classifiers/fc_net.py`
+这样就能够启动jupyter notebook软件，并在你的浏览器中打开`two_layer_net.ipynb`文件。
 
-### Convolution Neural Networks
+### 任务
 
-In the IPython Notebook `ConvolutionalNetworks.ipynb` you will implement several new layers that are commonly used in convolutional networks.
+- Two layers Neural Network CIFAR-10图像分类任务
 
-- `ConvolutionalNetworks.ipynb`
-  - `DSVC/layers.py`
-  - `DSVC/fast_layers.py`
-  - `DSVC/layer_utils.py`
-  - `DSVC/classifiers/cnn.py`
+### 作业提交
+
+- 提交方式：邮件的标题为`姓名-assignment6`。
+- 格式说明：
+  - 需要提交的文件：`two_layer_net.ipynb`文件以及生成的`.html`文件和相关的资源文件、`neural_net.py`代码文件。
+  - 将这些文件压缩成一个`.zip`文件， 命名与邮件标题相同。
+  - 你提交的作业版本应与Github上的最新版本一致。

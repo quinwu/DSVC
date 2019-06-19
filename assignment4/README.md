@@ -1,18 +1,12 @@
 ## assignment4
 
-### 内容
+#### 内容
 
-- SVM
-- SVM 硬间隔，软间隔
-- SVM 核函数
-- Hinge Loss
+- Decision Tree
+- Decision Tree Classification
 
-参考
+#### 作业
 
-- [小记SVM](https://quinwu.github.io/2017/09/08/ML-SVM/)
-- 周志华老师 《机器学习》
-- 李航老师 《统计学习方法》
+- [Decision Tree Classification](classwork)
 
-### 作业
-
-- [SVM 多分类任务](classwork)
+  
