@@ -10,7 +10,7 @@
 
 - [MNIST手写数字数据集](http://yann.lecun.com/exdb/mnist/)
 
-在**qq群里下载**`MNIST.csv`数据文件，存放在路径`classwork/DSVC/datasets/`下即可。
+将数据存放在路径`classwork/DSVC/datasets/`下即可。
 
 ### 运行
 

@@ -5,8 +5,6 @@
 [The CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html) consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. 
 [download](http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
 
-如果上面的链接下载速度太慢（或者无法访问），可以再QQ群里下在数据。
-
 下载到`cifar-10-python.tar.gz`文件后，解压。将解压后的文件夹拷贝到`/classwork/DSVC/datasets/`路径下即可。
 
 #### k-Nearest Neighbor classifier
