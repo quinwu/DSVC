@@ -66,6 +66,8 @@ Research Institute of Data Science and Vision Computing 机器学习与深度学
 
 - [2018 Summer](Course%20completion%20list)
 
+- [2019 Spring]()
+
 ### Reference & Acknowledgements
 
 我们的课程作业内容主要参考到了以下相关课程，在此对以下相关内容的作者表示感谢。
