@@ -64,9 +64,9 @@ Research Institute of Data Science and Vision Computing 机器学习与深度学
 
 ### Participating students
 
-- [2018 Summer](Course%20completion%20list)
+- [2018 Summer](Course%20completion%20list/2018%20summer)
 
-- [2019 Spring]()
+- [2019 Spring](Course%20completion%20list/2019%20spring)
 
 ### Reference & Acknowledgements
 
