@@ -10,7 +10,6 @@
 | 丁智慧 | [https://github.com/Source-00](https://github.com/Source-00) |
 | 李虹霞 | [https://github.com/DamDam123](https://github.com/DamDam123) |
 | 程谭   | [https://github.com/chengup](https://github.com/chengup)     |
-| 鲍骞月 | [https://github.com/shentibeitaokongle](https://github.com/shentibeitaokongle) |
 | 王天锐 | [https://github.com/wangtianrui](https://github.com/wangtianrui) |
 | 赵励志 | [https://github.com/ZhaoLizz](https://github.com/ZhaoLizz)   |
 | 李浩   | [https://github.com/wmpscc](https://github.com/wmpscc)       |
