@@ -1,6 +1,6 @@
-### 2018 暑期课程
+### 2018 《“智能移动互联网+”创新创业实践》人工智能模块在线学习仓库
 
-| Name   | GitHub                                                       |
+| 组长   | GitHub                                                       |
 | :----- | :----------------------------------------------------------- |
 | 胡屹杉 | [https://github.com/huyisha](https://github.com/huyishan)    |
 | 李萌   | [https://github.com/nuciot38](https://github.com/nuciot38)   |
