@@ -1,6 +1,8 @@
 ## 《"智能移动互联网+"创新创业实践》人工智能模块在线学习模块
 
-### 数据集：CIFAR-10
+
+
+### CIFAR-10图像分类
 
 [The CIFAR-10 dataset](http://www.cs.toronto.edu/~kriz/cifar.html) consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. 
 [数据集下载链接](http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz)
