@@ -57,7 +57,7 @@ Research Institute of Data Science and Vision Computing 机器学习与深度学
 
 | 教师                              |                  -                  |
 | --------------------------------- | :---------------------------------: |
-| 柴锐 |                                     |
+| 秦品乐 |                                    |
 | **助教**                          |                **-**                |
 | [武宽](https://github.com/quinwu) | [沈文祥](https://github.com/swxhss) |
 
